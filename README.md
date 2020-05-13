@@ -1,2 +1,2 @@
 # SiteGithub
- Site com links para estudos 
+ Site criado para compartilhar links externos de cursos e materiais gratuitos.
